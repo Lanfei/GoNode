@@ -1,1 +1,1 @@
-module.exports = require('./lib/go-node');
+module.exports = require('./lib/app');
