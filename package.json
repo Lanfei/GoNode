@@ -10,5 +10,8 @@
     "server"
   ],
   "author": "Lanfei",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0"
+  }
 }
